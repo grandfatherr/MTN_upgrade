@@ -2,7 +2,7 @@
 #### A project that tests the knowledge of pandas library in manipulation and data analysis
 #### By **Edwin Mutuma**
 ## Description
-This project used various datasets and the task was to clean the data, manipulate the data and analyse the data as needed to come up with viable recommendations for MTN about how to go about their upgrade with the right insight from tha analysis of data. The datasets used in this project was provided and will be linked above.
+This projectaimed at performing indepth analysis needed to come up with viable recommendations for MTN about how to go about their upgrade with the right insight.
 The process starts off by loading the datasets into a notebook of choice,(In my case it was the colab notebook by Google), and creating dataframes from the dtasets provided.
 From there, we cleaned the data which included dealing with null values, deleting duplicated values and renaming the columns that were misspelt. This would be a prerequisite for the later process of manipulation that involves merging the dataframes we were cleaning. 
 If not cleaned, the merging process would bring about wrong insight.
